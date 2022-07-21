@@ -87,28 +87,6 @@
 	.heading h2 {
 		font-size: 26px;
 	}
-	.service-info h3 {
-		font-size: 20px;
-	}
-	.our-services .col-sm-4 {
-		margin-bottom: 32px;
-		padding-bottom: 20px;
-	}
-	.our-services .col-sm-4:nth-child(4), 
-	.our-services .col-sm-4:nth-child(5), 
-	.our-services .col-sm-4:nth-child(6) {
-		padding-top: 0;
-	}
-	.service-icon {
-		font-size: 30px;
-		height: 65px;
-		line-height: 62px;
-		width: 65px;
-	}
-	.our-services .col-sm-4:hover .service-icon:before {
-		height: 90px;
-		width: 90px;
-	}
 	.about-info {
 		text-align: center;
 		margin-bottom: 50px;
